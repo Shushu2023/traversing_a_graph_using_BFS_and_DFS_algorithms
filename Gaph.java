@@ -56,7 +56,7 @@ public class Graph
    {
       ArrayList<Node> graph = new ArrayList<Node>();
       
-      File file = new File("graphinfo.txt");
+      File file = new File("GraphInfo.txt");
       Scanner inputFile = new Scanner(file);
       
       //read in the information from each line of the text file
